@@ -1,87 +1,102 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Nizomjon Davlatov — Flutter & Kotlin mobil dasturchi" />
+</p>
 
-# Salom, men Nizomjon Davlatov 👋
+<p align="center">
+  <a href="https://t.me/theofficialdavlatovnizomjon"><img src="https://img.shields.io/badge/Telegram-yozish-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:theofficialdavlatovnizomjon@gmail.com"><img src="https://img.shields.io/badge/Email-yuborish-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/theofficialdavlatovnizomjon"><img src="https://img.shields.io/badge/Instagram-kuzatish-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-### Flutter & Mobile dasturchi · Toshkent, O'zbekiston
+## 👋 Men haqimda
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/theofficialdavlatovnizomjon)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theofficialdavlatovnizomjon@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/theofficialdavlatovnizomjon)
-![Open to work](https://img.shields.io/badge/Open_to-work-2ea44f?style=flat-square)
+Mobil ilovalar yarataman — g'oyadan tortib tayyor relizgacha. Asosiy qurolim **Flutter**, native Android uchun esa **Kotlin**. Men uchun eng muhimi: ilova tez ochilsin, qotmasin va ko'zga yoqimli bo'lsin.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma" alt="Tech stack" />
+```dart
+final nizomjon = Developer(
+  ism: 'Nizomjon Davlatov',
+  shahar: 'Toshkent',
+  stack: ['Flutter', 'Dart', 'Kotlin'],
+  sevimli: ['Clean Architecture', 'BLoC', 'silliq animatsiyalar'],
+  holat: 'Yangi loyihalarga ochiqman 🚀',
+);
+```
 
-</div>
+## ✨ Tanlangan loyihalar
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💳 <a href="https://github.com/theofficialdavlatovnizomjon/CardLens">CardLens</a></h3>
+Kamera orqali karta raqami va amal qilish muddatini <b>internetsiz</b> o'qiydigan Flutter plagin. Android'da ML Kit, iOS'da Apple Vision.
+<br><br>
+<code>Flutter</code> <code>ML Kit</code> <code>Apple Vision</code> <code>CI/CD</code>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ <a href="https://github.com/theofficialdavlatovnizomjon/map_location_picker">Map Location Picker</a></h3>
+Xaritadan bir harakatda manzil tanlash: Google va Yandex xaritalari, animatsiyali marker, manzilni avtomatik aniqlash.
+<br><br>
+<code>Flutter</code> <code>Google Maps</code> <code>Yandex Maps</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 <a href="https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard">DevOps Dashboard</a></h3>
+Android, iOS, macOS va Linux'da ishlaydigan boshqaruv paneli. BLoC, DI va ko'p tillilik bilan qurilgan.
+<br><br>
+<code>Flutter</code> <code>BLoC</code> <code>DI</code> <code>l10n</code>
+</td>
+<td width="50%" valign="top">
+<h3>🏢 <a href="https://github.com/theofficialdavlatovnizomjon/Master_Group">Master Group</a></h3>
+mastergroup.uz uchun rasmiy Android ilova — Kotlin'da, noldan yozilgan.
+<br><br>
+<code>Kotlin</code> <code>Android</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz">Xozmagchi.uz</a></h3>
+xozmagchi.uz onlayn do'koni uchun Android ilova: mahsulotlar endi qo'l ostida.
+<br><br>
+<code>Kotlin</code> <code>Android</code>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 <a href="https://github.com/theofficialdavlatovnizomjon/Markazi">Markazi</a></h3>
+markazi.uz uchun ilova: Telegram, qo'ng'iroq, email va YouTube havolalari to'g'ridan-to'g'ri ilovadan ochiladi.
+<br><br>
+<code>Flutter</code> <code>WebView</code> <code>Deep links</code>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🇺🇿 O'zbekcha</b></summary>
+## 🧰 Texnologiyalar
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma&perline=8" alt="Flutter, Dart, Kotlin, Android Studio, Firebase, Git, GitHub, Figma" />
+</p>
 
-**Flutter** va **Kotlin**'da tezkor, oflayn ham ishlay oladigan mobil ilovalar yarataman: mijozlar uchun real ilovalardan tortib ochiq kodli plaginlargacha.
+## 🎯 Ish tamoyillarim
 
-### 🚀 Asosiy loyihalar
+| ⚡ Tezlik | 🧩 Toza kod | 🎨 Chiroyli UI |
+|:-:|:-:|:-:|
+| 60 fps, kichik hajm, oflayn rejim | BLoC, Clean Architecture, testlar | Sodda, zamonaviy, har ekranga mos |
 
-| Loyiha | Nima qiladi | Texnologiyalar |
-|---|---|---|
-| **[CardLens](https://github.com/theofficialdavlatovnizomjon/CardLens)** | Kamera orqali karta raqami va amal qilish muddatini o'qiydigan Flutter plagin. Hammasi qurilmaning o'zida, internetsiz ishlaydi. CI orqali avtomatik reliz. | Flutter · ML Kit · Apple Vision · GitHub Actions |
-| **[Master Group](https://github.com/theofficialdavlatovnizomjon/Master_Group)** | mastergroup.uz uchun rasmiy Android ilova. | Kotlin · Android |
-| **[Xozmagchi.uz](https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz)** | xozmagchi.uz onlayn do'koni uchun Android ilova. | Kotlin · Android |
-| **[Markazi](https://github.com/theofficialdavlatovnizomjon/Markazi)** | markazi.uz uchun ilova: Telegram, telefon, email va YouTube havolalari bilan chuqur integratsiya. | Flutter · WebView |
-| **[DevOps Dashboard](https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard)** | BLoC, DI va ko'p tillilik bilan qurilgan dashboard ilova. | Flutter · BLoC · DI · l10n |
-| **[Map Location Picker](https://github.com/theofficialdavlatovnizomjon/map_location_picker)** | Xaritadan joy tanlash paketi: Google va Yandex xaritalari, manzilni aniqlash. | Flutter · Maps |
-
-### 🛠️ Texnologiyalar
-
-- **Mobil:** Flutter, Dart, Kotlin, Android SDK
-- **Arxitektura:** BLoC, Clean Architecture, dependency injection
-- **Integratsiyalar:** REST API, avtorizatsiya, ML Kit / Apple Vision, WebView
-- **Vositalar:** Git, GitHub Actions, Android Studio, Figma
-
-### 🎯 Nimaga e'tibor beraman
-
-- **Tezlik:** silliq 60 fps interfeys, kichik ilova hajmi, kerak joyda oflayn ishlash
-- **Toza kod:** feature asosidagi tuzilma, BLoC, test qilsa bo'ladigan biznes-logika
-- **UX:** har qanday ekranda yaxshi ko'rinadigan, sodda va zamonaviy interfeys
-
-📩 Hamkorlik uchun [Telegram](https://t.me/theofficialdavlatovnizomjon) orqali yozing.
-
-</details>
+## 🌐 Boshqa tillarda
 
 <details>
 <summary><b>🇷🇺 Русский</b></summary>
 
 <br>
 
-Создаю быстрые мобильные приложения на **Flutter** и **Kotlin**, которые работают и офлайн: от реальных приложений для клиентов до open-source плагинов.
+Создаю мобильные приложения — от идеи до готового релиза. Основной инструмент — **Flutter**, для нативного Android — **Kotlin**. Для меня главное: приложение должно быстро запускаться, не тормозить и радовать глаз.
 
-### 🚀 Основные проекты
+- 💳 **CardLens** — Flutter-плагин, считывающий номер и срок карты камерой без интернета (ML Kit / Apple Vision)
+- 🗺️ **Map Location Picker** — выбор адреса на карте: Google и Яндекс Карты, определение адреса
+- 📊 **DevOps Dashboard** — панель управления на BLoC с DI и локализацией
+- 🏢 **Master Group** и 🛒 **Xozmagchi.uz** — нативные Android-приложения на Kotlin
+- 🌐 **Markazi** — приложение для markazi.uz с deep links
 
-| Проект | Что делает | Технологии |
-|---|---|---|
-| **[CardLens](https://github.com/theofficialdavlatovnizomjon/CardLens)** | Flutter-плагин, который считывает номер и срок действия карты камерой. Работает полностью на устройстве, без интернета. Автоматический релиз через CI. | Flutter · ML Kit · Apple Vision · GitHub Actions |
-| **[Master Group](https://github.com/theofficialdavlatovnizomjon/Master_Group)** | Официальное Android-приложение для mastergroup.uz. | Kotlin · Android |
-| **[Xozmagchi.uz](https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz)** | Android-приложение для интернет-магазина xozmagchi.uz. | Kotlin · Android |
-| **[Markazi](https://github.com/theofficialdavlatovnizomjon/Markazi)** | Приложение для markazi.uz с глубокой интеграцией Telegram, телефона, email и YouTube. | Flutter · WebView |
-| **[DevOps Dashboard](https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard)** | Дашборд на BLoC, DI и с локализацией. | Flutter · BLoC · DI · l10n |
-| **[Map Location Picker](https://github.com/theofficialdavlatovnizomjon/map_location_picker)** | Пакет для выбора точки на карте: Google и Яндекс Карты, определение адреса. | Flutter · Maps |
-
-### 🛠️ Технологии
-
-- **Мобильная разработка:** Flutter, Dart, Kotlin, Android SDK
-- **Архитектура:** BLoC, Clean Architecture, dependency injection
-- **Интеграции:** REST API, авторизация, ML Kit / Apple Vision, WebView
-- **Инструменты:** Git, GitHub Actions, Android Studio, Figma
-
-### 🎯 На что я обращаю внимание
-
-- **Производительность:** плавные 60 fps, небольшой размер приложения, офлайн-режим где нужно
-- **Чистый код:** структура по фичам, BLoC, тестируемая бизнес-логика
-- **UX:** простой и современный интерфейс на любом экране
-
-📩 Для сотрудничества пишите в [Telegram](https://t.me/theofficialdavlatovnizomjon).
+📩 Пишите в [Telegram](https://t.me/theofficialdavlatovnizomjon) — открыт к новым проектам.
 
 </details>
 
@@ -90,32 +105,18 @@
 
 <br>
 
-I build fast, offline-friendly mobile apps with **Flutter** and native **Kotlin**: from client apps in production to open-source plugins.
+I build mobile apps — from idea to release. My main tool is **Flutter**, and **Kotlin** for native Android. What matters most to me: apps that launch fast, never lag and feel great to use.
 
-### 🚀 Featured projects
+- 💳 **CardLens** — Flutter plugin that scans card number & expiry offline (ML Kit / Apple Vision)
+- 🗺️ **Map Location Picker** — pick an address on Google or Yandex Maps with reverse geocoding
+- 📊 **DevOps Dashboard** — control panel built with BLoC, DI and localization
+- 🏢 **Master Group** & 🛒 **Xozmagchi.uz** — native Android apps in Kotlin
+- 🌐 **Markazi** — app for markazi.uz with deep links
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[CardLens](https://github.com/theofficialdavlatovnizomjon/CardLens)** | Flutter plugin that scans card number & expiry with the camera, fully on-device with no network calls. CI release workflow. | Flutter · ML Kit · Apple Vision · GitHub Actions |
-| **[Master Group](https://github.com/theofficialdavlatovnizomjon/Master_Group)** | Official Android app for mastergroup.uz. | Kotlin · Android |
-| **[Xozmagchi.uz](https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz)** | Android app for the xozmagchi.uz online store. | Kotlin · Android |
-| **[Markazi](https://github.com/theofficialdavlatovnizomjon/Markazi)** | App for markazi.uz with deep links to Telegram, phone, email and YouTube. | Flutter · WebView |
-| **[DevOps Dashboard](https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard)** | Dashboard app built with BLoC, dependency injection and localization. | Flutter · BLoC · DI · l10n |
-| **[Map Location Picker](https://github.com/theofficialdavlatovnizomjon/map_location_picker)** | Map location picker package: Google & Yandex Maps, reverse geocoding. | Flutter · Maps |
-
-### 🛠️ Tech stack
-
-- **Mobile:** Flutter, Dart, Kotlin, Android SDK
-- **Architecture:** BLoC, Clean Architecture, dependency injection
-- **Integrations:** REST APIs, authentication, ML Kit / Apple Vision, WebView
-- **Tools:** Git, GitHub Actions, Android Studio, Figma
-
-### 🎯 What I focus on
-
-- **Performance:** smooth 60 fps UI, small app size, offline-first where it matters
-- **Clean code:** feature-based structure, BLoC, testable business logic
-- **UX:** minimal, responsive interfaces that work on every screen size
-
-📩 Reach me on [Telegram](https://t.me/theofficialdavlatovnizomjon).
+📩 Reach me on [Telegram](https://t.me/theofficialdavlatovnizomjon) — open to new projects.
 
 </details>
+
+<br>
+
+<p align="center"><sub>⭐ Loyihalar yoqqan bo'lsa, yulduzcha qoldirishni unutmang!</sub></p>
