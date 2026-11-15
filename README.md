@@ -43,13 +43,6 @@ I build fast, offline-friendly mobile apps with **Flutter** and native **Kotlin*
 - **Clean code** — feature-based structure, BLoC, testable business logic
 - **UX** — minimal, responsive interfaces that work on every screen size
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=theofficialdavlatovnizomjon&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficialdavlatovnizomjon&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
-
 ---
 
 <div align="center">
