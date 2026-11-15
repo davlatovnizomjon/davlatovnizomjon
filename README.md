@@ -1,164 +1,59 @@
-# <div align="center">Nizomjon Davlatov</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Engineer;Kotlin+%7C+Swift+%7C+React;Building+Ideas+Into+Apps" alt="Typing SVG" />
-</div>
-
-<br>
-
 <div align="center">
 
-<a href="https://github.com/theofficialdavlatovnizomjon">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/theofficialdavlatovnizomjon">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:theofficialdavlatovnizomjon@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/theofficialdavlatovnizomjon">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+# Hi, I'm Nizomjon Davlatov 👋
 
-</div>
+### Flutter & Mobile Developer · Tashkent, Uzbekistan
 
-<br>
+I build fast, offline-friendly mobile apps with **Flutter** and native **Kotlin** — from client apps in production to open-source plugins.
 
----
-
-## 👨‍💻 Men haqimda
-
-```text
-Flutter Developer
-Mobile App Engineer
-Clean Code Enthusiast
-UI/UX Focused
-Always Learning & Building
-```
-
-Men zamonaviy, tezkor va foydalanuvchiga qulay **mobil ilovalar** yaratishga qiziqaman.
-
-Asosiy yo‘nalishim — **Flutter & Dart**, shu bilan birga **Kotlin, Swift, JavaScript va React** texnologiyalari bilan ham ishlayman.
-
-Mening asosiy e'tiborim:
-
-* ⚡ Performance
-* 🧩 Clean Architecture
-* 🎨 Minimal & modern UI
-* 📱 Cross-platform development
-* 🔐 Reliable & maintainable code
-* 🚀 Smooth user experience
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge\&logo=flutter\&logoColor=00F7FF)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge\&logo=dart\&logoColor=00C2FF)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge\&logo=kotlin\&logoColor=C77DFF)
-![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge\&logo=swift\&logoColor=FF8A3D)
-
-</div>
-
-### 🌐 Web Development
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-</div>
-
-### ⚙️ Tools & Workflow
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge\&logo=androidstudio\&logoColor=3DDC84)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/theofficialdavlatovnizomjon)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theofficialdavlatovnizomjon@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/theofficialdavlatovnizomjon)
+![Open to work](https://img.shields.io/badge/Open_to-work-2ea44f?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 Nimalar qilaman?
+## 🚀 Featured projects
 
-```text
-📱 Cross-platform mobile applications
-🎨 Modern & responsive interfaces
-⚡ High-performance Flutter apps
-🧩 Scalable application architecture
-🔌 REST API integrations
-🔐 Authentication & secure data handling
-🛠️ App maintenance & optimization
-```
+| Project | What it is | Stack |
+|---|---|---|
+| **[CardLens](https://github.com/theofficialdavlatovnizomjon/CardLens)** | Flutter plugin that scans card number & expiry with the camera — fully on-device, no network calls. Native OCR on both platforms, CI release workflow. | Flutter · ML Kit · Apple Vision · GitHub Actions |
+| **[Master Group](https://github.com/theofficialdavlatovnizomjon/Master_Group)** | Official Android app for mastergroup.uz. | Kotlin · Android |
+| **[Xozmagchi.uz](https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz)** | Android app for the xozmagchi.uz store. | Kotlin · Android |
+| **[Markazi](https://github.com/theofficialdavlatovnizomjon/Markazi)** | Client app for markazi.uz with deep links to Telegram, phone, email and YouTube. | Flutter · WebView |
+| **[DevOps Dashboard](https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard)** | Dashboard app built with BLoC, dependency injection and localization. | Flutter · BLoC · DI · l10n |
+| **[Map Location Picker](https://github.com/theofficialdavlatovnizomjon/map_location_picker)** | Reusable map-based location picker. | Flutter · Maps |
 
----
+## 🛠️ Tech stack
 
-## 📊 GitHub Statistics
+- **Mobile:** Flutter, Dart, Kotlin, Android SDK
+- **Architecture:** BLoC, Clean Architecture, dependency injection
+- **Integrations:** REST APIs, authentication, ML Kit / Apple Vision, WebView
+- **Tools:** Git, GitHub Actions, Android Studio, Figma
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma" alt="Tech stack" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=theofficialdavlatovnizomjon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=FFFFFF&icon_color=00F7FF&text_color=C9D1D9" />
+## 🎯 What I focus on
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficialdavlatovnizomjon&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+- **Performance** — smooth 60 fps UI, small app size, offline-first where it matters
+- **Clean code** — feature-based structure, BLoC, testable business logic
+- **UX** — minimal, responsive interfaces that work on every screen size
 
-</div>
+## 📊 GitHub stats
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=theofficialdavlatovnizomjon&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=FFFFFF" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theofficialdavlatovnizomjon&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=theofficialdavlatovnizomjon&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficialdavlatovnizomjon&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
 
 ---
 
-## 🌐 Connect with me
-
 <div align="center">
 
-<a href="https://github.com/theofficialdavlatovnizomjon">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://t.me/theofficialdavlatovnizomjon">
-<img src="https://img.shields.io/badge/Telegram-Contact-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
-</a>
-
-<a href="mailto:theofficialdavlatovnizomjon@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### <i>Minimalism. Clean Code. Powerful Results.</i>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=theofficialdavlatovnizomjon&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" />
+🇺🇿 *Flutter va Kotlin'da tezkor, qulay mobil ilovalar yarataman. Hamkorlik uchun Telegram orqali yozing.*
 
 </div>
