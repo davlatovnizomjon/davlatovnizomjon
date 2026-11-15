@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0b1120"/>
+<stop offset="0.55" stop-color="#0d1b36"/>
+<stop offset="1" stop-color="#112a52"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#13B9FD"/>
+<stop offset="1" stop-color="#7F52FF"/>
+</linearGradient>
+<radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#13B9FD" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#13B9FD" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#7F52FF" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#7F52FF" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#16243f"/>
+<stop offset="1" stop-color="#0f1a30"/>
+</linearGradient>
+<clipPath id="card"><rect width="1200" height="320" rx="24"/></clipPath>
+<style>
+.name{font:800 60px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff;letter-spacing:-1px}
+.role{font:600 26px 'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#accent)}
+.tag{font:600 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cfe8ff}
+.small{font:500 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8aa4c8}
+.float{animation:float 5s ease-in-out infinite}
+.pulse{animation:pulse 6s ease-in-out infinite}
+.blink{animation:blink 1.1s step-end infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+</style>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<circle class="pulse" cx="980" cy="60" r="220" fill="url(#glow1)"/>
+<circle class="pulse" cx="1120" cy="300" r="200" fill="url(#glow2)"/>
+<circle cx="80" cy="320" r="160" fill="url(#glow1)" opacity="0.5"/>
+<g fill="#ffffff" opacity="0.06">
+<circle cx="620" cy="40" r="2"/><circle cx="650" cy="40" r="2"/><circle cx="680" cy="40" r="2"/><circle cx="710" cy="40" r="2"/>
+<circle cx="620" cy="70" r="2"/><circle cx="650" cy="70" r="2"/><circle cx="680" cy="70" r="2"/><circle cx="710" cy="70" r="2"/>
+<circle cx="620" cy="100" r="2"/><circle cx="650" cy="100" r="2"/><circle cx="680" cy="100" r="2"/><circle cx="710" cy="100" r="2"/>
+</g>
+<text x="70" y="80" class="small">// salom, dunyo</text>
+<text x="70" y="148" class="name">Nizomjon Davlatov</text>
+<text x="70" y="192" class="role">Flutter &amp; Kotlin mobil dasturchi<tspan class="blink" fill="#13B9FD">&#160;|</tspan></text>
+<g transform="translate(70,226)">
+<rect width="96" height="36" rx="18" fill="#13B9FD" fill-opacity="0.12" stroke="#13B9FD" stroke-opacity="0.5"/>
+<text x="48" y="24" text-anchor="middle" class="tag">Flutter</text>
+<rect x="108" width="80" height="36" rx="18" fill="#13B9FD" fill-opacity="0.12" stroke="#13B9FD" stroke-opacity="0.5"/>
+<text x="148" y="24" text-anchor="middle" class="tag">Dart</text>
+<rect x="200" width="88" height="36" rx="18" fill="#7F52FF" fill-opacity="0.15" stroke="#7F52FF" stroke-opacity="0.6"/>
+<text x="244" y="24" text-anchor="middle" class="tag">Kotlin</text>
+<rect x="300" width="104" height="36" rx="18" fill="#3DDC84" fill-opacity="0.12" stroke="#3DDC84" stroke-opacity="0.5"/>
+<text x="352" y="24" text-anchor="middle" class="tag">Android</text>
+<rect x="416" width="176" height="36" rx="18" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.2"/>
+<text x="504" y="24" text-anchor="middle" class="tag">Clean Architecture</text>
+</g>
+<g class="float">
+<g transform="translate(900,40)">
+<rect x="0" y="0" width="150" height="270" rx="26" fill="#0a0f1c" stroke="url(#accent)" stroke-width="3"/>
+<rect x="10" y="12" width="130" height="246" rx="18" fill="url(#screen)"/>
+<rect x="55" y="20" width="40" height="6" rx="3" fill="#2a3a5c"/>
+<rect x="22" y="40" width="70" height="10" rx="5" fill="#cfe8ff" opacity="0.9"/>
+<rect x="22" y="58" width="50" height="8" rx="4" fill="#8aa4c8" opacity="0.6"/>
+<rect x="22" y="80" width="106" height="62" rx="12" fill="url(#accent)" opacity="0.9"/>
+<rect x="32" y="94" width="40" height="8" rx="4" fill="#ffffff" opacity="0.85"/>
+<rect x="32" y="120" width="70" height="10" rx="5" fill="#ffffff" opacity="0.6"/>
+<rect x="22" y="154" width="50" height="44" rx="10" fill="#13B9FD" opacity="0.25"/>
+<rect x="78" y="154" width="50" height="44" rx="10" fill="#7F52FF" opacity="0.3"/>
+<rect x="22" y="208" width="106" height="12" rx="6" fill="#2a3a5c"/>
+<rect x="22" y="228" width="80" height="12" rx="6" fill="#2a3a5c"/>
+</g>
+</g>
+<g class="float" style="animation-delay:-2.5s">
+<g transform="translate(740,200)">
+<rect width="140" height="54" rx="12" fill="#0a0f1c" fill-opacity="0.85" stroke="#13B9FD" stroke-opacity="0.4"/>
+<text x="16" y="33" style="font:600 16px Consolas,Menlo,monospace" fill="#7dd3fc">build()</text>
+<text x="86" y="33" style="font:600 16px Consolas,Menlo,monospace" fill="#c4b5fd">{ }</text>
+</g>
+</g>
+</g>
+</svg>
