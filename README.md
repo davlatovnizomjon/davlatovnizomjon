@@ -12,7 +12,7 @@
 
 ### Men haqimda
 
-Salom! Men Nizomjon — Toshkentdan mobil dasturchi va software engineer.
+Salom! Men Nizomjon — mobil dasturchi va software engineer.
 
 Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar va hamkorlikka doim ochiqman.
 
@@ -29,7 +29,7 @@ Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar 
 
 <br>
 
-Привет! Я Низомжон — мобильный разработчик и software engineer из Ташкента. Создаю быстрые, удобные и красивые приложения для Android и iOS. Открыт к новым проектам.
+Привет! Я Низомжон — мобильный разработчик и software engineer. Создаю быстрые, удобные и красивые приложения для Android и iOS. Открыт к новым проектам.
 
 Связаться: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
@@ -40,7 +40,7 @@ Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar 
 
 <br>
 
-Hi! I'm Nizomjon — a mobile developer and software engineer from Tashkent. I build fast, simple and beautiful apps for Android and iOS. Open to new projects.
+Hi! I'm Nizomjon — a mobile developer and software engineer. I build fast, simple and beautiful apps for Android and iOS. Open to new projects.
 
 Reach me: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
