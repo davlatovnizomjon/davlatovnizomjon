@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <rect width="1200" height="200" rx="14" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="14" fill="none" stroke="#1f1f1f"/>
+  <text x="600" y="116" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-0.5" fill="#fafafa">Mobile Developer <tspan fill="#4a4a4a">·</tspan> Software Engineer</text>
+</svg>
