@@ -43,8 +43,6 @@ Android, iOS, macOS, Windows va Linux uchun ilovalar, shuningdek veb-saytlar va 
 
 Привет! Я Низомжон — мобильный разработчик и software engineer. Создаю приложения для Android, iOS, macOS, Windows и Linux, а также веб-сайты и программы для Smart TV — быстрые, удобные и красивые. Открыт к новым проектам.
 
-Связаться: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
-
 </details>
 
 <details>
@@ -53,7 +51,5 @@ Android, iOS, macOS, Windows va Linux uchun ilovalar, shuningdek veb-saytlar va 
 <br>
 
 Hi! I'm Nizomjon — a mobile developer and software engineer. I build apps for Android, iOS, macOS, Windows and Linux, as well as websites and Smart TV apps — fast, simple and beautiful. Open to new projects.
-
-Reach me: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
 </details>
