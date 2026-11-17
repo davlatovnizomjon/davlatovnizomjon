@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Nizomjon Davlatov — Mobile Developer · Software Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Mobile Developer · Software Engineer" />
 
 <p align="center">
   <a href="https://t.me/theofficialdavlatovnizomjon">Telegram</a>
