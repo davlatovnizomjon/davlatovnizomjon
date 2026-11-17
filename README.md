@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Nizomjon Davlatov — Flutter & Kotlin mobil dasturchi" />
+<img src="./assets/banner.svg" width="100%" alt="Nizomjon Davlatov — Mobile Developer · Software Engineer" />
 
 <p align="center">
   <a href="https://t.me/theofficialdavlatovnizomjon">Telegram</a>
@@ -12,44 +12,9 @@
 
 ### Men haqimda
 
-Mobil ilovalar yarataman — g'oyadan tortib tayyor relizgacha. Asosiy qurolim **Flutter**, native Android uchun esa **Kotlin**. Men uchun eng muhimi: ilova tez ochilsin, qotmasin va ko'zga yoqimli bo'lsin.
+Salom! Men Nizomjon — Toshkentdan mobil dasturchi va software engineer.
 
-```dart
-final nizomjon = Developer(
-  shahar: 'Toshkent',
-  stack: ['Flutter', 'Dart', 'Kotlin'],
-  sevimli: ['Clean Architecture', 'BLoC', 'silliq animatsiyalar'],
-  holat: 'Yangi loyihalarga ochiqman',
-);
-```
-
-<br>
-
-### Loyihalar
-
-**[CardLens](https://github.com/theofficialdavlatovnizomjon/CardLens)**
-— kamera orqali karta raqami va muddatini internetsiz o'qiydigan Flutter plagin.
-<br><sub>`Flutter` `ML Kit` `Apple Vision` `CI/CD`</sub>
-
-**[Map Location Picker](https://github.com/theofficialdavlatovnizomjon/map_location_picker)**
-— Google va Yandex xaritalarida bir harakatda manzil tanlash.
-<br><sub>`Flutter` `Google Maps` `Yandex Maps`</sub>
-
-**[DevOps Dashboard](https://github.com/theofficialdavlatovnizomjon/Flutter_DevOps_Dashboard)**
-— Android, iOS, macOS va Linux uchun boshqaruv paneli.
-<br><sub>`Flutter` `BLoC` `DI` `l10n`</sub>
-
-**[Master Group](https://github.com/theofficialdavlatovnizomjon/Master_Group)**
-— mastergroup.uz uchun rasmiy Android ilova.
-<br><sub>`Kotlin` `Android`</sub>
-
-**[Xozmagchi.uz](https://github.com/theofficialdavlatovnizomjon/xozmagchi.uz)**
-— xozmagchi.uz onlayn do'koni uchun Android ilova.
-<br><sub>`Kotlin` `Android`</sub>
-
-**[Markazi](https://github.com/theofficialdavlatovnizomjon/Markazi)**
-— markazi.uz uchun ilova, deep link'lar bilan.
-<br><sub>`Flutter` `WebView` `Deep links`</sub>
+Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar va hamkorlikka doim ochiqman.
 
 <br>
 
@@ -64,7 +29,7 @@ final nizomjon = Developer(
 
 <br>
 
-Создаю мобильные приложения — от идеи до готового релиза. Основной инструмент — **Flutter**, для нативного Android — **Kotlin**. Для меня главное: приложение должно быстро запускаться, не тормозить и радовать глаз.
+Привет! Я Низомжон — мобильный разработчик и software engineer из Ташкента. Создаю быстрые, удобные и красивые приложения для Android и iOS. Открыт к новым проектам.
 
 Связаться: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
@@ -75,7 +40,7 @@ final nizomjon = Developer(
 
 <br>
 
-I build mobile apps — from idea to release. My main tool is **Flutter**, and **Kotlin** for native Android. What matters most to me: apps that launch fast, never lag and feel great to use.
+Hi! I'm Nizomjon — a mobile developer and software engineer from Tashkent. I build fast, simple and beautiful apps for Android and iOS. Open to new projects.
 
 Reach me: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
