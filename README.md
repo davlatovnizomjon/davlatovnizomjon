@@ -14,7 +14,7 @@
 
 Salom! Men Nizomjon — mobil dasturchi va software engineer.
 
-Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar va hamkorlikka doim ochiqman.
+Android, iOS, macOS, Windows va Linux uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar va hamkorlikka doim ochiqman.
 
 <br>
 
@@ -29,7 +29,7 @@ Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar 
 
 <br>
 
-Привет! Я Низомжон — мобильный разработчик и software engineer. Создаю быстрые, удобные и красивые приложения для Android и iOS. Открыт к новым проектам.
+Привет! Я Низомжон — мобильный разработчик и software engineer. Создаю быстрые, удобные и красивые приложения для Android, iOS, macOS, Windows и Linux. Открыт к новым проектам.
 
 Связаться: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
@@ -40,7 +40,7 @@ Android va iOS uchun tez, qulay va chiroyli ilovalar yarataman. Yangi loyihalar 
 
 <br>
 
-Hi! I'm Nizomjon — a mobile developer and software engineer. I build fast, simple and beautiful apps for Android and iOS. Open to new projects.
+Hi! I'm Nizomjon — a mobile developer and software engineer. I build fast, simple and beautiful apps for Android, iOS, macOS, Windows and Linux. Open to new projects.
 
 Reach me: [Telegram](https://t.me/theofficialdavlatovnizomjon) · [LinkedIn](https://www.linkedin.com/in/nizomjon-davlatov-972059375/)
 
