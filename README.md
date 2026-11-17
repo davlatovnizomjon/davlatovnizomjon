@@ -1,4 +1,4 @@
-<h1 align="center">Mobile Developer · Software Engineer</h1>
+<img src="./assets/header.svg" width="100%" alt="Mobile Developer · Software Engineer" />
 
 <p align="center">
   <a href="https://t.me/theofficialdavlatovnizomjon">Telegram</a>
