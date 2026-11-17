@@ -12,7 +12,7 @@
 
 ### Men haqimda
 
-Salom! Men Nizomjon — mobil dasturchi va software engineer.
+Salom! Men Nizomjon — Middle+ mobil dasturchi va bo'lajak software engineer.
 
 Android, iOS, macOS, Windows va Linux uchun ilovalar, shuningdek veb-saytlar va Smart TV uchun dasturlar yarataman. Hammasi tez, qulay va chiroyli bo'lishiga e'tibor beraman. Yangi loyihalar va hamkorlikka doim ochiqman.
 
@@ -41,7 +41,7 @@ Android, iOS, macOS, Windows va Linux uchun ilovalar, shuningdek veb-saytlar va 
 
 <br>
 
-Привет! Я Низомжон — мобильный разработчик и software engineer. Создаю приложения для Android, iOS, macOS, Windows и Linux, а также веб-сайты и программы для Smart TV — быстрые, удобные и красивые. Открыт к новым проектам.
+Привет! Я Низомжон — Middle+ мобильный разработчик и будущий software engineer. Создаю приложения для Android, iOS, macOS, Windows и Linux, а также веб-сайты и программы для Smart TV — быстрые, удобные и красивые. Открыт к новым проектам.
 
 </details>
 
@@ -50,6 +50,6 @@ Android, iOS, macOS, Windows va Linux uchun ilovalar, shuningdek veb-saytlar va 
 
 <br>
 
-Hi! I'm Nizomjon — a mobile developer and software engineer. I build apps for Android, iOS, macOS, Windows and Linux, as well as websites and Smart TV apps — fast, simple and beautiful. Open to new projects.
+Hi! I'm Nizomjon — a Middle+ mobile developer and an aspiring software engineer. I build apps for Android, iOS, macOS, Windows and Linux, as well as websites and Smart TV apps — fast, simple and beautiful. Open to new projects.
 
 </details>
